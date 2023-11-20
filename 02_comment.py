@@ -1,1 +1,3 @@
-# ini adalah komentar
+#  ini adalah komentar
+
+print("Hello") # komentar di ujung
