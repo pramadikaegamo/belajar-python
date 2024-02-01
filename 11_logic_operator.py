@@ -1,10 +1,10 @@
 #  Operator Logika
-
+print("<<<operator logika and>>>\n")
 print(True and True)
 print(True and False)
 print(False and True)
 print(False and False)
-
+print("\n<<<operator logika or>>>\n")
 print(True or True)
 print(True or False)
 print(False or True)
